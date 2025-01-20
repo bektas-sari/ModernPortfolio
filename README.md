@@ -1,4 +1,5 @@
-# Modern Portfolio Website
+# Modern Portfolio Website 
+(Deneme Amaçlı Olarak Windsurf Kullanılarak Oluşturulmuştur)
 
 Bu proje, modern ve kullanıcı dostu bir portfolio websitesi şablonudur. HTML5, CSS3 ve JavaScript kullanılarak oluşturulmuştur.
 
@@ -91,14 +92,5 @@ Website aşağıdaki ekran boyutlarına göre optimize edilmiştir:
 
 ## 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+Bu proje MIT lisansı altında lisanslanmıştır.
 
-## 📞 İletişim
-
-Sorularınız için:
-- E-posta: [e-posta adresiniz]
-- LinkedIn: [LinkedIn profiliniz]
-- Twitter: [Twitter profiliniz]
-
----
-⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
