@@ -29,7 +29,7 @@ Bu projeyi çalıştırmak için herhangi bir özel gereksinim yoktur. Modern bi
 ```
 portfolio-website/
 │
-├── index.html          # Ana HTML dosyası
+├── index.html         # Ana HTML dosyası
 ├── style.css          # Stil dosyası
 ├── script.js          # JavaScript dosyası
 └── README.md          # Proje dokümantasyonu
