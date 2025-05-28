@@ -1,4 +1,4 @@
-# Modern Portfolio Website 
+# Modern Portfolio (Website) 
 (Deneme Amaçlı Olarak Windsurf Kullanılarak Oluşturulmuştur)
 
 Bu proje, modern ve kullanıcı dostu bir portfolio websitesi şablonudur. HTML5, CSS3 ve JavaScript kullanılarak oluşturulmuştur.
