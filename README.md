@@ -94,3 +94,6 @@ Website aşağıdaki ekran boyutlarına göre optimize edilmiştir:
 
 Bu proje MIT lisansı altında lisanslanmıştır.
 
+## İletişim
+
+Gmail: bektas.sari@gmail.com
