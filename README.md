@@ -21,7 +21,7 @@ Bu projeyi çalıştırmak için herhangi bir özel gereksinim yoktur. Modern bi
 
 ### Kurulum
 
-1. Bu repository'yi klonlayın veya ZIP olarak indirin
+1. Bu repository'yi klonlayın veya ZIP olarak indirin (https://github.com/bektas-sari/ModernPortfolio)
 2. İndirdiğiniz klasörde `index.html` dosyasını bir web tarayıcısında açın
 
 ## 📁 Proje Yapısı
