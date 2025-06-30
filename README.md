@@ -90,6 +90,12 @@ Website aşağıdaki ekran boyutlarına göre optimize edilmiştir:
 4. Branch'inizi push edin (`git push origin feature/YeniOzellik`)
 5. Pull Request oluşturun
 
+Email: bektas.sari@gmail.com <br>
+GitHub: https://github.com/bektas-sari<br>
+LinkedIn: www.linkedin.com/in/bektas-sari<br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3<br>
+Academia: https://independent.academia.edu/bektassari<br>
+
 ## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
